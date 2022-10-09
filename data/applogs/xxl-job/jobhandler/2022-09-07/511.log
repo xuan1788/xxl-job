@@ -1,0 +1,5 @@
+2022-09-07 16:03:46 [com.xxl.job.core.thread.JobThread#run]-[133]-[xxl-job, JobThread-5-1662537826373] <br>----------- xxl-job job execute start -----------<br>----------- Param:
+2022-09-07 16:03:46 [com.tq.yuxuan.xxljob.task.MyTask#demoJobHandler]-[27]-[xxl-job, JobThread-5-1662537826373] TransQuant tick回测任务启动.
+2022-09-07 16:03:59 [com.tq.yuxuan.xxljob.task.MyTask#demoJobHandler]-[52]-[xxl-job, JobThread-5-1662537826373] TransQuant tick回测任务完成.
+2022-09-07 16:03:59 [com.xxl.job.core.thread.JobThread#run]-[179]-[xxl-job, JobThread-5-1662537826373] <br>----------- xxl-job job execute end(finish) -----------<br>----------- Result: handleCode=200, handleMsg = null
+2022-09-07 16:03:59 [com.xxl.job.core.thread.TriggerCallbackThread#callbackLog]-[197]-[xxl-job, executor TriggerCallbackThread] <br>----------- xxl-job job callback finish.

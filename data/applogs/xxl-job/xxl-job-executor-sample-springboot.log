@@ -1,0 +1,7 @@
+2022-10-08 08:57:00,858 INFO [Thread-16] com.xxl.job.core.server.EmbedServer [EmbedServer.java : 91] >>>>>>>>>>> xxl-job remoting server stop.
+2022-10-08 08:57:00,855 INFO [xxl-job, executor ExecutorRegistryThread] c.x.j.c.t.ExecutorRegistryThread [ExecutorRegistryThread.java : 87] >>>>>>>>>>> xxl-job registry-remove success, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='xxl-job-yuxuan', registryValue='http://192.168.110.116:19991/'}, registryResult:ReturnT [code=200, msg=null, content=null]
+2022-10-08 08:57:00,900 INFO [xxl-job, executor ExecutorRegistryThread] c.x.j.c.t.ExecutorRegistryThread [ExecutorRegistryThread.java : 105] >>>>>>>>>>> xxl-job, executor registry thread destroy.
+2022-10-08 08:57:00,902 INFO [SpringApplicationShutdownHook] com.xxl.job.core.server.EmbedServer [EmbedServer.java : 117] >>>>>>>>>>> xxl-job remoting server destroy success.
+2022-10-08 08:57:00,904 INFO [xxl-job, executor JobLogFileCleanThread] c.x.j.c.thread.JobLogFileCleanThread [JobLogFileCleanThread.java : 99] >>>>>>>>>>> xxl-job, executor JobLogFileCleanThread thread destroy.
+2022-10-08 08:57:00,904 INFO [xxl-job, executor TriggerCallbackThread] c.x.j.c.thread.TriggerCallbackThread [TriggerCallbackThread.java : 98] >>>>>>>>>>> xxl-job, executor callback thread destroy.
+2022-10-08 08:57:00,905 INFO [Thread-15] c.x.j.c.thread.TriggerCallbackThread [TriggerCallbackThread.java : 128] >>>>>>>>>>> xxl-job, executor retry callback thread destroy.

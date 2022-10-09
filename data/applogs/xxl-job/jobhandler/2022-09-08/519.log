@@ -1,0 +1,8 @@
+2022-09-08 09:33:16 [com.xxl.job.core.thread.JobThread#run]-[133]-[xxl-job, JobThread-6-1662600796427] <br>----------- xxl-job job execute start -----------<br>----------- Param:
+2022-09-08 09:33:16 [com.xxl.job.core.handler.impl.ScriptJobHandler#execute]-[80]-[xxl-job, JobThread-6-1662600796427] ----------- script file:./data/applogs/xxl-job/jobhandler/gluesource/6_1662600786000.py -----------
+  File "/Users/xuan/Documents/Xuan_Data/xxl-job/./data/applogs/xxl-job/jobhandler/gluesource/6_1662600786000.py", line 6
+    print "xxl-job: hello python"
+          ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print("xxl-job: hello python")?
+2022-09-08 09:33:16 [com.xxl.job.core.thread.JobThread#run]-[179]-[xxl-job, JobThread-6-1662600796427] <br>----------- xxl-job job execute end(finish) -----------<br>----------- Result: handleCode=500, handleMsg = script exit value(1) is failed
+2022-09-08 09:33:16 [com.xxl.job.core.thread.TriggerCallbackThread#callbackLog]-[197]-[xxl-job, executor TriggerCallbackThread] <br>----------- xxl-job job callback finish.

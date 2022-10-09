@@ -1,0 +1,4 @@
+2022-09-08 10:00:19 [com.xxl.job.core.thread.JobThread#run]-[133]-[xxl-job, JobThread-7-1662602287520] <br>----------- xxl-job job execute start -----------<br>----------- Param:"url: http://www.baidu.com\n"
+2022-09-08 10:00:19 [com.tq.yuxuan.xxljob.task.MyTask#httpJobHandler]-[94]-[xxl-job, JobThread-7-1662602287520] url[null] invalid.
+2022-09-08 10:00:19 [com.xxl.job.core.thread.JobThread#run]-[179]-[xxl-job, JobThread-7-1662602287520] <br>----------- xxl-job job execute end(finish) -----------<br>----------- Result: handleCode=500, handleMsg = null
+2022-09-08 10:00:19 [com.xxl.job.core.thread.TriggerCallbackThread#callbackLog]-[197]-[xxl-job, executor TriggerCallbackThread] <br>----------- xxl-job job callback finish.
